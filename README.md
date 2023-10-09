@@ -68,9 +68,6 @@ Here are some examples of how to use Weathable:
 
 Running the program gives you a different outfit each time, since the code randomly selects different clothing elements, out of the available depending on the weather. This is replicated in the prototype adding a "Next Outfit" button.
 
-
-<img src="https://github.com/sergioolles/Weathable/assets/123390818/f9a49bb8-e778-4294-b50b-35f8585c9152" width="200">
-
 ## Project Status
 
 Weathable is a developed and finished project, providing a reliable solution for outfit recommendations based on local weather conditions. It is fully functional and ready for use.
