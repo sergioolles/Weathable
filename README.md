@@ -72,9 +72,9 @@ Running the program gives you a different outfit each time, since the code rando
 
 Weathable is a developed and finished project, providing a reliable solution for outfit recommendations based on local weather conditions. It is fully functional and ready for use.
 
-### 🧩 Next Steps for Developers
+### 🧩 Next Steps
 
-While Weathable is complete, there are several exciting enhancements that developers can consider for future iterations:
+While Weathable is complete, there are several exciting enhancements that can be considered for future iterations:
 
 - **Adding Other Categories:** Expand the clothing categories to include winter and summer accessories, hats, and more, providing users with even more outfit choices.
 
